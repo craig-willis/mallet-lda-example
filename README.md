@@ -9,7 +9,12 @@ unzip malled-2.0.8.zip
 
 Create a file containing one line per document (in this example ap.input)
 ```
-AP891016-0001,ap nr 10 16 89 2347edt 624602820 r a am elpasoshooting     10 16 0314 am el paso shooting 0321 mortally wounded detective kills gunman by suzanne gamboa associated press writer el paso  texas  ap       a detective was shot to death monday by his former business partner in a police fund raising business  authorities said  the gunman was killed by shots fired by the mortally wounded detective...
+AP891016-0001,ap nr 10 16 89 2347edt 624602820 r a am elpasoshooting     10 16 0314 am el 
+paso shooting 0321 mortally wounded detective kills gunman by suzanne gamboa associated press 
+writer el paso  texas  ap       a detective was shot to death monday by his former business 
+partner in a police fund raising business  authorities said  the gunman was killed by shots 
+fired by the mortally wounded detective...
+DOCID,...
 ```
 
 Convert the input documents to Mallet sequence file format:
